@@ -20,7 +20,6 @@ The project shows that the temperature in Lagos has significantly increased over
 
 The results of this project have important implications for combating global warming and raising awareness about the need to reduce greenhouse gas emissions.
 
-
 ## Dependencies
 
 The project was developed using R programming language and requires the following packages:
