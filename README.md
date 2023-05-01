@@ -20,22 +20,19 @@ The project shows that the temperature in Lagos has significantly increased over
 
 The results of this project have important implications for combating global warming and raising awareness about the need to reduce greenhouse gas emissions.
 
-## Usage
 
-To replicate this project, the dataset used is available in the data folder. The R code used for analysis and forecasting is provided in the code folder. Running the R code will generate plots and models for analysis and forecasting.
-
-Dependencies
+## Dependencies
 
 The project was developed using R programming language and requires the following packages:
 
-forecast
-ggplot2
-TSA
-astsa
-xts
-zoo
-Quandl
-tseries
+- forecast
+- ggplot2
+- TSA
+- astsa
+- xts
+- zoo
+- Quandl
+- tseries
 
 ## Authors
 
